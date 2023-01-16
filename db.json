@@ -10,7 +10,14 @@
         "area":"北部",
         "contract":["15:00", "11:00", "於入住前兩周可免費取消，兩周內依照取消日期將會收取相應之取消費用", "2 位 11 歲 (含) 以下的兒童若與家長或監護人同住一間房 (不加床)，則無需支付額外住宿費。"],
         "introduction":"洛此住宿設有 24 小時接待櫃台。洛碁大飯店松山館距離捷運後山埤站步行約 2 分鐘。距離台北松山機場約 20 分鐘車程。距離饒河街觀光夜市約 2 分鐘車程。距離五分埔商圈約 5 分鐘車程。",
-        "picture":"../img/Hotel1/rocky-banner.jpg"
+        "picture":"../img/Hotel1/rocky-banner.jpg",
+        "pool": "泳池",
+        "gym": "健身房",
+        "restaurant": "自助餐",
+        "bar": "酒吧",
+        "parking": "停車場",
+        "arcade": "娛樂室",
+        "meeting_room": "會議室"
       },
       {
         "id": 2,
@@ -22,7 +29,14 @@
         "area":"北部",
         "contract":["15:00", "11:00", "於入住前兩周可免費取消，兩周內依照取消日期將會收取相應之取消費用", "2 位 11 歲 (含) 以下的兒童若與家長或監護人同住一間房 (不加床)，則無需支付額外住宿費。"],
         "introduction":"可抵達。 距離台灣桃園國際機場則有 40 分鐘車途的便利，設有 24 小時接待櫃台，親切的工作人員可提供旅遊資訊，或協助客人免費行李寄存。公共休息區提供免費咖啡、飲品、點心和共用微波爐。",
-        "picture":"../img/Hotel1/rocky-banner.jpg"
+        "picture":"../img/Hotel1/rocky-banner.jpg",
+        "pool": "泳池",
+        "gym": "健身房",
+        "restaurant": "自助餐",
+        "bar": "酒吧",
+        "parking": "停車場",
+        "arcade": "娛樂室",
+        "meeting_room": "會議室"
       },
       {
         "id": 3,
@@ -34,7 +48,14 @@
         "area":"北部",
         "contract":["15:00", "11:00", "於入住前兩周可免費取消，兩周內依照取消日期將會收取相應之取消費用", "2 位 11 歲 (含) 以下的兒童若與家長或監護人同住一間房 (不加床)，則無需支付額外住宿費。"],
         "introduction":"桃花園飯店距離桃園火車站步行僅 6 分鐘，提供享有城市景觀的明亮客房。飯店設有會議設施、健身中心、花園和內部餐廳。全館提供免費 WiFi。如有需求，飯店也提供收費機場接駁服務。",
-        "picture":"../img/Hotel1/rocky-banner.jpg"
+        "picture":"../img/Hotel1/rocky-banner.jpg",
+        "pool": "泳池",
+        "gym": "健身房",
+        "restaurant": "自助餐",
+        "bar": "酒吧",
+        "parking": "停車場",
+        "arcade": "娛樂室",
+        "meeting_room": "會議室"
       },
       {
         "id": 4,
@@ -46,7 +67,14 @@
         "area":"北部",
         "contract":["15:00", "11:00", "於入住前兩周可免費取消，兩周內依照取消日期將會收取相應之取消費用", "2 位 11 歲 (含) 以下的兒童若與家長或監護人同住一間房 (不加床)，則無需支付額外住宿費。"],
         "introduction":"尊爵天際大酒店提供各式豪華客房，靠近桃園國際機場，僅需 15 分鐘車程即可到達。這棟時尚的建築內設有 2 間餐廳、健身中心和 SPA 中心。",
-        "picture":"../img/Hotel1/rocky-banner.jpg"
+        "picture":"../img/Hotel1/rocky-banner.jpg",
+        "pool": "泳池",
+        "gym": "健身房",
+        "restaurant": "自助餐",
+        "bar": "酒吧",
+        "parking": "停車場",
+        "arcade": "娛樂室",
+        "meeting_room": "會議室"
       },
       {
         "id": 5,
@@ -58,7 +86,14 @@
         "area":"北部",
         "contract":["15:00", "11:00", "於入住前兩周可免費取消，兩周內依照取消日期將會收取相應之取消費用", "2 位 11 歲 (含) 以下的兒童若與家長或監護人同住一間房 (不加床)，則無需支付額外住宿費。"],
         "introduction":"尊爵大飯店位置便利，距離桃園市中心 3 公里，附設免費停車位和健身房。客房配備平面電視，並提供免費網路。館內設有 4 家餐飲場所。",
-        "picture":"../img/Hotel1/rocky-banner.jpg"
+        "picture":"../img/Hotel1/rocky-banner.jpg",
+        "pool": "泳池",
+        "gym": "健身房",
+        "restaurant": "自助餐",
+        "bar": "酒吧",
+        "parking": "停車場",
+        "arcade": "娛樂室",
+        "meeting_room": "會議室"
       },
       {
         "id": 6,
@@ -70,7 +105,14 @@
         "area":"北部",
         "contract":["15:00", "11:00", "於入住前兩周可免費取消，兩周內依照取消日期將會收取相應之取消費用", "2 位 11 歲 (含) 以下的兒童若與家長或監護人同住一間房 (不加床)，則無需支付額外住宿費。"],
         "introduction":"新竹福華大飯店位於市中心，提供 5 星級的豪華設施，設有室內游泳池和 24 小時商務中心，現代化的客房配有平面電視、躺椅和免費網路。",
-        "picture":"../img/Hotel1/rocky-banner.jpg"
+        "picture":"../img/Hotel1/rocky-banner.jpg",
+        "pool": "泳池",
+        "gym": "健身房",
+        "restaurant": "自助餐",
+        "bar": "酒吧",
+        "parking": "停車場",
+        "arcade": "娛樂室",
+        "meeting_room": "會議室"
       },
       {
         "id": 7,
@@ -82,7 +124,14 @@
         "area":"北部",
         "contract":["15:00", "11:00", "於入住前兩周可免費取消，兩周內依照取消日期將會收取相應之取消費用", "2 位 11 歲 (含) 以下的兒童若與家長或監護人同住一間房 (不加床)，則無需支付額外住宿費。"],
         "introduction":"迎曦大飯店位於新竹市中心的東門商圈，設有健身中心、24 小時前台和空調，提供設計現代的客房、露台、全館免費 WiFi 以及免費私人停車設施。",
-        "picture":"../img/Hotel1/rocky-banner.jpg"
+        "picture":"../img/Hotel1/rocky-banner.jpg",
+        "pool": "泳池",
+        "gym": "健身房",
+        "restaurant": "自助餐",
+        "bar": "酒吧",
+        "parking": "停車場",
+        "arcade": "娛樂室",
+        "meeting_room": "會議室"
       },
       {
         "id": 8,
@@ -94,7 +143,14 @@
         "area":"北部",
         "contract":["15:00", "11:00", "於入住前兩周可免費取消，兩周內依照取消日期將會收取相應之取消費用", "2 位 11 歲 (含) 以下的兒童若與家長或監護人同住一間房 (不加床)，則無需支付額外住宿費。"],
         "introduction":"煙波大飯店新竹都會館位於新竹市，距離遠東巨城購物中心步行 5 分鐘。飯店提供免費 WiFi 並設有免費私人停車場。",
-        "picture":"../img/Hotel1/rocky-banner.jpg"
+        "picture":"../img/Hotel1/rocky-banner.jpg",
+        "pool": "泳池",
+        "gym": "健身房",
+        "restaurant": "自助餐",
+        "bar": "酒吧",
+        "parking": "停車場",
+        "arcade": "娛樂室",
+        "meeting_room": "會議室"
       },
       {
         "id": 9,
@@ -106,7 +162,14 @@
         "area":"北部",
         "contract":["15:00", "11:00", "於入住前兩周可免費取消，兩周內依照取消日期將會收取相應之取消費用", "2 位 11 歲 (含) 以下的兒童若與家長或監護人同住一間房 (不加床)，則無需支付額外住宿費。"],
         "introduction":"長榮鳳凰飯店（礁溪）距離礁溪公園有 5 分鐘的步行路程，豪華住宿提供免費 WiFi。飯店設有室外游泳池、SPA 中心和健身設施。",
-        "picture":"../img/Hotel1/rocky-banner.jpg"
+        "picture":"../img/Hotel1/rocky-banner.jpg",
+        "pool": "泳池",
+        "gym": "健身房",
+        "restaurant": "自助餐",
+        "bar": "酒吧",
+        "parking": "停車場",
+        "arcade": "娛樂室",
+        "meeting_room": "會議室"
       },
       {
         "id": 10,
@@ -118,27 +181,23 @@
         "area":"北部",
         "contract":["15:00", "11:00", "於入住前兩周可免費取消，兩周內依照取消日期將會收取相應之取消費用", "2 位 11 歲 (含) 以下的兒童若與家長或監護人同住一間房 (不加床)，則無需支付額外住宿費。"],
         "introduction":"Yunoyado On花園。這間 4 星級飯店提供禮賓服務和旅遊諮詢台服務。這間飯店設有溫泉浴池、24 小時接待櫃檯以及全館 WiFi（免費）。",
-        "picture":"../img/Hotel1/rocky-banner.jpg"
+        "picture":"../img/Hotel1/rocky-banner.jpg",
+        "pool": "泳池",
+        "gym": "健身房",
+        "restaurant": "自助餐",
+        "bar": "酒吧",
+        "parking": "停車場",
+        "arcade": "娛樂室",
+        "meeting_room": "會議室"
       }
     ],
-    "carts": [
-      {
-        "productId": 3,
-        "name": "Jordan Why Not Zer0.2",
-        "image": "/images/3.jpg",
-        "price": "48900",
-        "mount": 1,
-        "id": 4,
-        "userId": "admin@163.com"
-      },
-      {
-        "productId": 6,
-        "name": "Nike Zoom Kobe 1",
-        "image": "/images/6.jpg",
-        "price": "80391",
-        "mount": 1,
-        "userId": "admin@163.com",
-        "id": 5
-      }
+    "category": [
+        "泳池",
+        "健身房",
+        "自助餐",
+        "停車場",
+        "娛樂室",
+        "會議室"
     ]
+
   }
