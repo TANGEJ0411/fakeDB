@@ -77,8 +77,8 @@
         "meeting_room": "會議室"
       },
       {
-        "id": 1,
-        "company_name": "洛碁大飯店松山館",
+        "id": 5,
+        "company_name": "洛碁大飯店",
         "address": "台北南港區玉成街54號",
         "stars": 4,
         "category": 1,
@@ -96,8 +96,8 @@
         "meeting_room": "會議室"
       },
       {
-        "id": 2,
-        "company_name": "旅樂序精品旅館站前五館",
+        "id": 6,
+        "company_name": "旅樂序精品旅館站",
         "address": "台北中正區重慶南路一段20號",
         "stars": 3,
         "category": 2,
@@ -115,8 +115,8 @@
         "meeting_room": "會議室"
       },
       {
-        "id": 3,
-        "company_name": "桃花園飯店",
+        "id": 7,
+        "company_name": "桃花",
         "address": "桃園區復興路151號",
         "stars": 5,
         "category": 1,
@@ -134,8 +134,8 @@
         "meeting_room": "會議室"
       },
       {
-        "id": 4,
-        "company_name": "尊爵天際大酒店",
+        "id": 8,
+        "company_name": "尊爵天際",
         "address": "蘆竹區南崁路1段108號",
         "stars": 5,
         "category": 1,
